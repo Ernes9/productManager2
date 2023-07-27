@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+[
+  {
+    "id": 1,
+    "title": "Telefono",
+    "description": "MacBook Air",
+    "price": 2500,
+    "thumbnail": "imagen.png",
+    "code": "uTn572",
+    "stock": 7
+  },
+  {
+    "id": 2,
+    "title": "telefono",
+    "description": "iPhone 11",
+    "price": 1100,
+    "thumbnail": "imagen.png",
+    "code": "hwASdwa62",
+    "stock": 21
+  },
+  {
+    "id": 3,
+    "title": "telefono",
+    "description": "iPhone 12",
+    "price": 1100,
+    "thumbnail": "imagen.png",
+    "code": "hwASwaddwa62",
+    "stock": 21
+  }
+]
+=======
+[{"id":1,"title":"Telefono","description":"MacBook Air","price":2500,"thumbnail":"imagen.png","code":"uTn572","stock":7},{"id":2,"title":"telefono","description":"iPhone 11","price":1100,"thumbnail":"imagen.png","code":"hwASdwa62","stock":21},{"id":3,"title":"telefono","description":"iPhone 12","price":1100,"thumbnail":"imagen.png","code":"hwASwaddwa62","stock":21},{"title":"Computadora","description":"Lenovo negra","price":1400,"status":true,"thumbnail":"lenovo.jpg","code":"hrj2jiaf","stock":1},{"id":"a093eb0e-8043-4a68-964b-bca29bc9c99f","status":true},{"id":"597d38c4-c443-439c-81d5-3991105eb7b9","title":"Samsung A04","description":"Samsung GOOOOD","price":999,"status":true,"thumbnail":"samsung.png","code":"ns256","stock":999}]
+>>>>>>> 0e42f91 (errors fixed)
